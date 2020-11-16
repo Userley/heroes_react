@@ -1,0 +1,11 @@
+.ModalDeleteHeroe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 10rem;
+}
+
+.ModalDeleteHeroe button+button {
+    margin-left: 1rem;
+}
